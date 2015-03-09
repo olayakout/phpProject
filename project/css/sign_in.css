@@ -1,0 +1,43 @@
+.form-control {
+    display: inline;
+    width: 140%;
+}  
+
+td, th {
+    padding: 10px;
+}
+
+h1{
+font-size: 47px;
+margin-left: 120px;
+margin-bottom: 42px;
+
+}
+
+.container_sign{
+width: 481px;
+margin-left: 421px;
+
+}
+
+.s{
+
+	margin-left: 135px;
+	margin-top: 30px;
+	width: 132px;
+	height: 50px;
+    background-color: #E7E7E7;
+}
+.error{
+
+margin-top: 50px;
+color: red;
+
+}
+.submit{
+	float: left;
+	margin-left: 59px;
+}
+
+.edit_table{
+	margin-left: 61px;}

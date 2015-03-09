@@ -1,0 +1,30 @@
+.main{
+width: 89%;
+max-width: 100%;
+margin-bottom: -77px;
+margin-left: 71px;
+margin-top: 93px;
+
+}
+td{
+	height: 47px;
+}
+
+.inside{
+	width: 89%;
+	max-width: 100%;
+	margin-bottom: -89px;
+	margin-left: 71px;
+	margin-top: 93px;
+}
+.inside_td{
+	height: 196px;
+}
+
+.out{
+		width: 89%;
+	max-width: 100%;
+	margin-bottom: 20px;
+	margin-left: 71px;
+	margin-top: 93px;
+}

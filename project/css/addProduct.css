@@ -1,0 +1,29 @@
+.container_sign{
+width: 705px;
+padding-left: 77px;
+margin-left: 343px;
+font-size: 17px;
+margin-top: 68px;
+}
+
+h1{
+	padding-left: 94px;
+	padding-bottom: 24px;
+}
+
+td{
+	width: 90px;
+}
+
+
+.s{
+
+	margin-left: 39px;
+	margin-top: 43px;
+	width: 132px;
+	height: 50px;
+    background-color: #E7E7E7;
+}
+table{
+	width:132%;
+}

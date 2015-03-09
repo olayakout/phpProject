@@ -1,0 +1,17 @@
+.image{
+	width: 36px;
+	height: 31px;
+	margin-top: 8px;
+}
+
+.navbar-btn{
+	margin-left: 613px;
+}
+
+.welcome{
+	text-align: center;
+}
+
+ul.nav a:hover { background-color: #fff !important; }
+
+

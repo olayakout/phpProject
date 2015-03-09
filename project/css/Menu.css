@@ -1,0 +1,195 @@
+.selectBox{
+	border: 3px solid;
+	margin-left: 81px;
+	width: 484px;
+	margin-top: 23px;
+	border-radius: 26px;
+	background-color: #333;
+	background-image: url("../images/bg.jpg");
+	background-size: 100% 100%;
+	min-height: 525px;
+	height: auto;
+	float: left;
+	color: #FFF;
+	margin-right: 41px;
+	border-color: rgba(36, 33, 33, 0.67);
+}
+
+.products{
+	border: 1px solid;
+	width: 527px;
+	margin-top: 52px;
+	border-radius: 26px;
+	background-color: #333;
+	opacity: 0.2;
+	min-height: 473px;
+	height: auto;
+	margin-left: 662px;
+	color:black;
+}
+
+.warning{
+	margin-left: 84px;
+	color:red;
+}
+
+.image_procedure{
+	width: 108%;
+	height: 101%;
+	margin-left: -6px;
+	border: medium solid white;
+	border-radius: 16px;
+}
+
+.button{
+	width: 135px;
+	height:  117px;
+	margin-right: 34px;
+	margin-bottom: 27px;
+	margin-left: 13px;
+	border: medium solid;
+	border-radius: 19px;
+
+}
+
+.product_td{
+	float: left;
+	width: 166px;
+	height: 162px;
+}
+
+.label_product{
+	padding-top: 41px;
+}
+
+.price{
+	border: medium solid gray;
+	border-radius: 100px;
+	background-color:gray;
+	width: 73px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+.new{
+	color:red;
+	font-weight: bold;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+	color: rgb(246, 20, 20);
+}
+
+.td_order{
+	width:315px;
+	font-size: 15px;
+	color:black;
+}
+
+.input_no{
+	color: black;
+    width: 50px;
+    margin-left: 20px;
+}
+
+.order_table{
+	margin-top: 51px;
+	margin-left: 104px;
+}
+
+.td_price{
+	width: 279px;
+	height: 35px;
+	padding-left:34px;
+	font-size: 18px;
+	color: black;
+	padding-top: 3px;
+}
+
+.cancel{
+	margin-left: 38px;
+	color: black;
+	margin-right: 26px;
+}
+
+.welcome{
+	color: black;
+	padding-left: 71px;
+	padding-top: 18px;
+	font-size: 16px;
+}
+
+.notes{
+	color: red;
+	font-size: 22px;
+	margin-left: 80px;
+}
+
+.notes_text{
+	margin-bottom: -36px;
+	margin-left: 17px;
+	width: 293px;
+	height: 80px;
+	color: black;
+}
+
+.div_note{
+	margin-top: 31px;
+	padding-bottom: 25px;
+}
+
+.room{
+	color: red;
+	font-size: 22px;
+	margin-left: 80px;
+}
+
+.room_no{
+	margin-left: 17px;
+	width: 77px;
+	height: 35px;
+	color: #000;
+}
+
+.div_room{
+	margin-top: 31px;
+	padding-bottom: 53px;
+}
+
+hr{
+	margin-top: 0px;
+	border-color: black;
+	border-width: 4px 0px 0px;
+	width: 416px;
+}
+
+.div_totalPrice{
+	margin-left: 343px;
+	color: #000;
+	font-size: 24px;
+
+}
+
+.confirm{
+	color: black;
+	width: 160px;
+	height: 41px;
+	margin-left: 286px;
+	margin-top: 20px;
+	margin-bottom: 26px;
+	box-shadow:10px 10px 5px #888888;
+}
+.myroom{
+	color: black;
+	margin-left: 8px;
+}
+.user_name{
+	margin-left: 103px;
+	color: black;
+	margin-right: 96px;
+	margin-top: 31px;
+}
+.select{
+	color: black;
+}
